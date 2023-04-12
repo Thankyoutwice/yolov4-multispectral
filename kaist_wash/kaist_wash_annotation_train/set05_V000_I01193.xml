@@ -1,0 +1,33 @@
+<annotation>
+  <folder>1</folder>
+  <filename>set05_V000_I01193.jpg</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>truncated</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>222</xmin>
+      <ymin>221</ymin>
+      <xmax>276</xmax>
+      <ymax>353</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>truncated</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>286</xmin>
+      <ymin>220</ymin>
+      <xmax>341</xmax>
+      <ymax>343</ymax>
+    </bndbox>
+  </object>
+</annotation>

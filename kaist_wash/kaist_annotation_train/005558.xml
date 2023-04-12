@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+  <folder>1</folder>
+  <filename>005558.jpg</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>truncated</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>533</xmin>
+      <ymin>241</ymin>
+      <xmax>569</xmax>
+      <ymax>328</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>truncated</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>551</xmin>
+      <ymin>229</ymin>
+      <xmax>589</xmax>
+      <ymax>322</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>truncated</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>595</xmin>
+      <ymin>251</ymin>
+      <xmax>641</xmax>
+      <ymax>468</ymax>
+    </bndbox>
+  </object>
+</annotation>

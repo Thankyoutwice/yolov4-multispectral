@@ -1,0 +1,761 @@
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000008.jpg 141,212,164,269,0 163,212,186,269,0 325,215,336,241,0 371,206,383,235,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000039.jpg 346,218,366,273,0 440,215,462,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000042.jpg 352,215,378,279,0 461,218,483,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000045.jpg 365,215,393,283,0 492,214,517,276,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000046.jpg 496,222,524,285,0 370,220,397,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000047.jpg 507,224,537,290,0 378,223,405,288,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000078.jpg 485,219,520,304,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000083.jpg 513,224,547,306,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000084.jpg 519,222,553,304,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000123.jpg 408,222,442,306,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000132.jpg 438,225,488,347,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000148.jpg 156,215,180,274,0 234,223,253,269,0 281,222,296,247,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000164.jpg 181,217,212,293,0 87,211,116,282,0 266,216,290,251,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000211.jpg 404,222,428,281,0 452,226,467,262,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000214.jpg 409,203,432,258,0 464,200,478,233,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000217.jpg 416,223,443,287,0 476,227,493,269,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000234.jpg 471,234,504,326,0 561,229,585,288,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000245.jpg 578,238,636,380,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000255.jpg 195,199,218,247,0 162,191,189,246,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000264.jpg 176,217,203,274,0 140,205,172,277,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000274.jpg 111,192,140,263,0 137,191,167,263,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000286.jpg 7,203,77,298,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000306.jpg 206,210,223,252,0 135,217,161,281,0 161,221,203,257,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000339.jpg 7,212,80,305,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000365.jpg 48,209,76,274,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000366.jpg 46,209,76,277,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000370.jpg 21,208,54,283,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000371.jpg 16,208,49,284,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000379.jpg 83,212,111,268,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000393.jpg 207,216,229,267,0 197,219,217,260,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000405.jpg 243,210,271,275,0 230,219,253,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000412.jpg 317,210,345,279,0 298,216,323,275,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000413.jpg 331,210,359,279,0 312,216,337,276,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000432.jpg 289,220,313,273,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000437.jpg 374,218,400,274,0 184,209,195,240,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000442.jpg 535,211,556,263,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000452.jpg 512,209,540,278,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000456.jpg 516,211,547,288,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000477.jpg 411,225,445,263,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000495.jpg 295,220,320,280,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000498.jpg 311,222,336,283,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000520.jpg 484,212,524,310,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000529.jpg 96,212,116,261,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000579.jpg 535,230,567,309,0 558,229,590,307,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000586.jpg 431,222,471,319,0 455,223,492,313,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000599.jpg 492,204,515,261,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000609.jpg 481,215,508,268,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000612.jpg 445,209,478,264,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000620.jpg 311,211,345,273,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000624.jpg 201,214,246,288,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000632.jpg 424,219,447,271,0 443,219,466,271,0 412,222,427,259,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000634.jpg 428,219,452,274,0 449,220,473,275,0 412,220,427,257,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000636.jpg 433,220,458,278,0 455,220,480,279,0 414,219,432,262,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000644.jpg 462,214,495,297,0 492,214,521,297,0 426,224,454,268,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000648.jpg 489,199,525,291,0 521,200,554,293,0 437,211,469,262,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000649.jpg 498,201,535,298,0 531,203,565,300,0 440,208,475,260,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000660.jpg 524,210,551,288,0 504,204,535,283,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000662.jpg 546,222,579,307,0 527,213,558,298,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000669.jpg 286,213,310,261,0 256,220,279,259,0 499,228,523,280,0 449,213,469,253,0 213,217,231,261,0 487,213,512,260,0 1,214,46,282,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000677.jpg 251,214,275,263,0 219,223,243,265,0 443,217,464,258,0 509,218,529,269,0 176,211,196,259,0 469,208,486,249,0 485,226,514,282,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000736.jpg 131,225,172,325,0 258,229,289,301,0 203,227,232,281,0 355,221,377,263,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000742.jpg 223,229,254,302,0 158,228,188,284,0 344,222,366,264,0 73,230,120,329,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000748.jpg 333,219,353,263,0 182,233,218,306,0 112,232,144,286,0 9,228,69,333,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000750.jpg 329,217,349,265,0 169,228,208,307,0 95,227,129,289,0 1,223,52,324,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000751.jpg 166,230,199,306,0 327,222,349,265,0 1,229,55,332,0 87,227,124,292,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000756.jpg 318,223,340,266,0 129,231,167,316,0 44,230,87,296,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000759.jpg 309,222,330,272,0 24,231,70,300,0 108,231,147,314,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000764.jpg 295,222,318,267,0 64,227,108,326,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000770.jpg 238,221,263,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000772.jpg 231,220,256,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000795.jpg 98,222,137,294,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000833.jpg 321,217,343,271,0 275,214,287,243,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000836.jpg 338,224,361,279,0 285,223,298,255,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000852.jpg 322,223,343,263,0 353,224,366,256,0 487,227,541,359,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000853.jpg 515,228,565,377,0 324,225,345,265,0 356,224,369,256,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000866.jpg 369,224,396,286,0 412,220,437,277,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000878.jpg 419,231,454,317,0 467,230,499,309,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000889.jpg 520,234,577,385,0 588,233,633,389,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000890.jpg 531,235,590,397,0 620,308,620,309,0 600,233,664,389,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000903.jpg 411,234,439,303,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000926.jpg 248,213,261,245,0 369,219,390,269,0 394,214,417,271,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000944.jpg 185,211,210,266,0 471,222,525,346,0 545,215,599,331,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000949.jpg 119,220,166,305,0 555,237,658,439,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000950.jpg 355,219,376,270,0 459,224,479,275,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000951.jpg 354,219,375,271,0 368,220,388,271,0 459,224,479,276,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000971.jpg 419,232,453,336,0 450,227,482,336,0 479,227,515,320,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000974.jpg 445,233,486,361,0 483,232,523,363,0 497,228,535,335,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/000975.jpg 455,233,498,370,0 495,233,537,371,0 505,228,544,340,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001000.jpg 231,213,252,263,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001020.jpg 184,210,214,285,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001047.jpg 79,220,125,317,0 108,220,157,326,0 467,224,487,254,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001052.jpg 568,225,594,261,0 245,224,311,339,0 210,224,272,329,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001060.jpg 532,236,605,366,0 492,239,558,362,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001093.jpg 458,223,502,330,0 505,225,546,326,0 188,194,206,238,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001102.jpg 210,197,226,237,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001106.jpg 195,207,211,247,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001112.jpg 442,220,466,278,0 160,204,177,246,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001113.jpg 433,213,460,278,0 155,203,173,246,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001121.jpg 406,217,434,285,0 121,195,143,248,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001122.jpg 403,214,433,286,0 120,198,141,248,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001131.jpg 119,194,141,247,0 393,221,423,293,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001138.jpg 135,202,156,254,0 386,218,422,306,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001168.jpg 397,224,456,348,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001169.jpg 398,225,458,351,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001203.jpg 554,243,618,399,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001214.jpg 248,225,264,265,0 260,224,276,262,0 270,225,285,261,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001243.jpg 253,218,277,276,0 268,218,292,276,0 278,219,301,276,0 182,217,200,257,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001253.jpg 246,213,274,282,0 261,217,289,285,0 272,212,301,282,0 170,217,188,255,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001257.jpg 235,213,266,289,0 258,218,286,287,0 269,216,299,288,0 162,218,183,263,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001258.jpg 235,214,264,284,0 256,218,285,288,0 269,218,298,288,0 164,217,184,264,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001277.jpg 126,212,173,326,0 173,218,219,331,0 203,212,249,324,0 274,211,290,250,0 66,212,108,298,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001286.jpg 31,208,101,378,0 82,219,148,381,0 125,208,192,371,0 260,211,277,253,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001288.jpg 257,211,273,250,0 105,216,175,386,0 57,215,128,387,0 5,208,78,386,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001291.jpg 251,211,270,257,0 1,205,137,416,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001295.jpg 241,213,261,262,0 1,213,86,446,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001307.jpg 244,215,266,268,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001318.jpg 289,218,314,279,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001326.jpg 323,216,353,288,0 517,218,546,289,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001327.jpg 324,215,353,286,0 524,218,554,291,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001331.jpg 323,220,353,294,0 549,222,581,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001332.jpg 321,221,352,297,0 551,225,586,310,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001339.jpg 288,219,324,308,0 580,230,622,333,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001380.jpg 170,209,195,271,0 358,217,385,283,0 378,218,403,278,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001411.jpg 98,212,162,352,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001423.jpg 411,250,442,304,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001430.jpg 291,231,324,296,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001443.jpg 283,209,303,257,0 309,211,327,254,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001464.jpg 175,211,198,266,0 227,216,248,266,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001465.jpg 171,211,194,266,0 223,211,246,266,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001469.jpg 153,213,166,244,0 127,214,151,273,0 209,212,221,242,0 183,218,203,261,0 169,214,180,241,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001484.jpg 93,204,124,279,0 156,214,179,268,0 233,213,244,241,0 243,213,254,241,0 177,214,202,243,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001496.jpg 158,218,185,276,0 284,218,297,251,0 294,217,307,250,0 232,220,244,250,0 56,209,99,289,0 217,219,233,246,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001507.jpg 139,223,163,281,0 230,220,246,259,0 284,221,297,253,0 297,219,311,253,0 206,220,232,251,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001515.jpg 126,223,154,292,0 235,220,251,260,0 290,219,303,251,0 301,219,316,255,0 206,220,236,251,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001538.jpg 334,219,352,264,0 297,219,315,263,0 280,220,297,262,0 213,225,243,299,0 402,223,426,255,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001541.jpg 233,229,266,307,0 290,227,309,268,0 308,223,329,267,0 351,225,371,267,0 419,225,447,263,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001542.jpg 237,232,274,312,0 291,226,311,272,0 311,224,332,272,0 355,228,374,272,0 425,225,451,266,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001543.jpg 357,224,379,273,0 314,224,334,272,0 295,227,314,274,0 242,230,274,308,0 427,224,454,264,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001570.jpg 394,218,413,264,0 406,216,425,262,0 278,220,306,279,0 142,234,189,348,0 126,225,175,321,0 177,226,220,314,0 204,226,231,281,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001594.jpg 324,221,350,285,0 343,221,369,284,0 90,220,137,322,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001596.jpg 349,220,375,284,0 327,223,353,286,0 78,215,127,321,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001599.jpg 58,223,110,337,0 334,220,362,288,0 354,223,381,290,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001600.jpg 334,220,361,287,0 355,222,382,289,0 49,220,105,338,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001603.jpg 342,220,372,293,0 363,216,397,297,0 17,222,85,355,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001604.jpg 366,220,399,298,0 343,218,376,297,0 7,222,78,360,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001610.jpg 361,221,398,311,0 387,219,425,311,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001616.jpg 343,215,354,242,0 384,223,425,323,0 412,218,455,322,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001643.jpg 370,223,391,273,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001647.jpg 374,223,395,274,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001652.jpg 385,228,408,285,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001668.jpg 470,236,517,341,0 371,223,388,265,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001693.jpg 501,244,564,378,0 103,224,156,334,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001699.jpg 162,214,182,262,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001715.jpg 77,214,114,288,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001733.jpg 483,216,514,291,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001736.jpg 511,210,548,300,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001741.jpg 397,225,415,270,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001745.jpg 408,227,431,282,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001749.jpg 428,235,454,299,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001754.jpg 477,239,514,326,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001768.jpg 397,216,409,246,0 542,214,575,294,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001773.jpg 584,210,621,301,0 384,214,405,265,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001780.jpg 364,218,392,287,0 382,209,423,310,0 492,218,527,304,0 145,218,156,245,0 171,214,185,247,0 184,216,255,243,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001786.jpg 378,217,410,296,0 406,211,449,315,0 496,221,536,318,0 153,211,167,245,0 179,210,266,245,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001795.jpg 185,211,201,250,0 419,217,457,310,0 454,212,507,341,0 511,232,561,353,0 217,209,363,252,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001817.jpg 491,231,538,346,0 540,247,600,393,0 496,221,556,367,0 448,224,494,336,0 199,218,214,255,0 221,221,235,255,0 259,216,402,254,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001828.jpg 447,227,490,332,0 491,231,538,346,0 540,247,600,393,0 496,221,556,367,0 221,220,236,256,0 238,219,252,254,0 270,219,388,251,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001832.jpg 447,227,490,332,0 491,231,538,346,0 540,247,600,393,0 496,221,556,367,0 229,216,245,255,0 242,215,259,256,0 280,215,378,257,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001834.jpg 447,227,490,332,0 491,231,538,346,0 540,247,600,393,0 496,221,556,367,0 234,221,248,254,0 246,221,259,253,0 281,220,353,252,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001835.jpg 447,227,490,332,0 491,231,538,346,0 540,247,600,393,0 496,221,556,367,0 235,221,249,255,0 248,221,262,256,0 283,220,297,255,0 302,219,317,255,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001836.jpg 447,227,490,332,0 491,231,538,346,0 540,247,600,393,0 496,221,556,367,0 238,220,252,255,0 250,220,264,255,0 284,218,299,255,0 302,220,346,254,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001838.jpg 447,227,490,332,0 491,231,538,346,0 540,247,600,393,0 496,221,556,367,0 243,217,257,252,0 254,219,269,256,0 287,223,300,254,0 308,220,322,254,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001865.jpg 447,227,490,332,0 491,231,538,346,0 540,247,600,393,0 496,221,556,367,0 298,212,447,252,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001867.jpg 447,227,490,332,0 491,231,538,346,0 540,247,600,393,0 496,221,556,367,0 298,212,447,252,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001869.jpg 447,227,490,332,0 491,231,538,346,0 540,247,600,393,0 496,221,556,367,0 298,212,447,252,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001879.jpg 447,227,490,332,0 473,283,496,338,0 491,231,538,346,0 540,247,600,393,0 496,221,556,367,0 315,212,454,253,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001882.jpg 451,224,495,332,0 475,279,499,337,0 491,228,550,372,0 537,248,596,392,0 345,211,448,248,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001885.jpg 445,229,490,338,0 468,233,528,380,0 492,229,541,348,0 535,246,596,395,0 348,212,452,249,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001906.jpg 419,229,465,340,0 459,242,504,351,0 496,223,528,302,0 381,253,440,396,0 225,226,291,387,0 339,212,427,251,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001912.jpg 133,221,213,401,0 296,249,364,402,0 419,240,475,361,0 461,272,491,338,0 470,218,508,309,0 407,231,457,344,0 345,216,437,247,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001916.jpg 66,215,156,405,0 243,242,311,398,0 390,240,450,363,0 392,228,443,349,0 446,280,474,347,0 446,225,484,317,0 344,210,402,248,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001918.jpg 41,216,127,402,0 217,246,287,397,0 377,244,433,363,0 382,230,437,348,0 436,280,466,343,0 438,227,482,321,0 336,217,386,246,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001933.jpg 289,235,344,368,0 307,229,355,345,0 343,283,372,354,0 354,229,390,318,0 424,216,477,253,0 496,216,534,254,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001940.jpg 241,236,301,383,0 259,219,313,350,0 311,226,348,316,0 296,288,326,360,0 398,213,452,252,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001942.jpg 226,243,282,379,0 247,223,300,352,0 299,224,339,321,0 285,289,312,355,0 405,213,473,256,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001945.jpg 201,237,262,386,0 225,225,278,354,0 281,225,322,326,0 267,283,297,357,0 379,217,458,252,0 497,218,556,252,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001955.jpg 581,212,613,291,0 85,236,160,410,0 135,219,199,372,0 192,286,228,369,0 211,225,253,328,0 379,220,456,252,0 516,216,576,252,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001959.jpg 35,228,119,416,0 102,218,172,376,0 163,285,200,377,0 182,223,232,335,0 564,220,595,295,0 379,221,454,255,0 501,218,564,251,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001971.jpg 530,218,564,301,0 573,219,603,293,0 83,224,140,341,0 382,219,454,253,0 36,293,87,386,0 -26,217,54,386,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001975.jpg 508,219,544,306,0 527,223,557,295,0 554,214,586,293,0 45,223,102,340,0 378,216,453,254,0 -11,288,49,400,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001977.jpg 500,225,532,303,0 519,224,549,296,0 551,214,585,297,0 380,220,455,256,0 23,219,89,349,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001980.jpg 434,224,470,312,0 485,226,517,305,0 514,216,548,300,0 381,220,435,250,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001981.jpg 430,223,468,316,0 483,228,513,302,0 509,219,544,305,0 380,221,429,255,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001987.jpg 397,227,436,322,0 441,232,469,300,0 462,233,492,306,0 484,218,517,299,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/001993.jpg 437,227,473,314,0 457,217,491,300,0 416,232,445,303,0 353,228,393,326,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002018.jpg 154,221,209,342,0 295,227,340,329,0 327,218,370,319,0 382,222,456,259,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002029.jpg 234,225,281,331,0 274,220,318,324,0 384,216,463,253,0 55,220,122,359,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002039.jpg 223,218,270,331,0 169,225,215,340,0 1,211,31,351,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002059.jpg 93,212,147,342,0 9,216,78,350,0 394,220,456,257,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002094.jpg 433,245,515,433,0 385,221,460,251,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002099.jpg 517,246,605,438,0 383,215,460,252,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002105.jpg 265,227,298,307,0 291,227,316,288,0 305,226,334,296,0 337,244,357,292,0 352,224,373,276,0 367,223,390,279,0 544,225,569,287,0 189,223,222,298,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002112.jpg 290,230,317,296,0 261,230,296,315,0 357,225,377,273,0 368,223,390,276,0 548,223,574,287,0 153,223,189,302,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002123.jpg 95,212,133,300,0 113,215,152,301,0 260,228,299,324,0 249,216,282,292,0 313,225,341,292,0 392,213,414,267,0 406,213,426,264,0 581,215,608,283,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002128.jpg 86,211,128,307,0 108,218,145,302,0 248,216,282,298,0 276,227,323,343,0 339,224,368,295,0 435,213,456,264,0 420,210,441,262,0 603,215,636,290,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002163.jpg 512,235,565,340,0 550,251,605,377,0 177,231,224,314,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002198.jpg 511,224,557,336,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002199.jpg 526,223,578,345,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002205.jpg 463,232,487,290,0 482,234,507,294,0 524,241,573,360,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002216.jpg 375,221,388,252,0 406,239,419,270,0 422,221,443,271,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002231.jpg 362,225,380,270,0 444,255,463,302,0 464,229,498,313,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002236.jpg 364,225,384,273,0 476,269,496,320,0 515,242,559,340,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002240.jpg 370,226,392,277,0 532,284,572,356,0 591,244,659,373,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002242.jpg 376,226,398,280,0 588,303,634,385,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002250.jpg 403,221,432,292,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002252.jpg 414,219,446,296,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002256.jpg 432,215,473,316,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002267.jpg 543,222,612,382,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002282.jpg 328,205,348,253,0 467,210,485,255,0 493,213,512,259,0 511,213,531,262,0 527,208,545,252,0 436,212,452,250,0 449,208,466,249,0 273,204,315,247,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002288.jpg 442,211,462,259,0 328,205,348,253,0 467,210,485,255,0 520,213,539,260,0 496,217,514,262,0 533,211,550,252,0 273,204,315,247,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002295.jpg 538,215,556,260,0 466,214,487,265,0 329,206,350,257,0 502,216,521,262,0 520,215,539,262,0 442,211,462,259,0 429,209,448,255,0 273,204,315,247,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002302.jpg 538,215,556,260,0 466,214,487,265,0 329,206,350,257,0 416,212,433,253,0 502,216,521,262,0 520,215,539,262,0 565,209,581,247,0 442,211,462,259,0 273,204,315,247,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002320.jpg 328,215,347,262,0 390,215,409,261,0 443,218,459,257,0 467,216,488,268,0 501,219,521,268,0 522,220,540,264,0 539,217,555,255,0 272,209,312,241,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002323.jpg 329,216,348,263,0 385,215,404,262,0 440,218,459,264,0 466,215,486,264,0 504,221,522,266,0 521,219,541,267,0 540,217,558,260,0 269,210,313,240,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002328.jpg 325,213,345,262,0 375,215,393,260,0 444,217,461,259,0 466,216,487,267,0 503,223,521,268,0 523,219,542,266,0 538,213,557,259,0 268,208,309,245,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002331.jpg 322,212,343,263,0 364,213,385,263,0 440,216,461,267,0 462,215,483,267,0 502,222,520,266,0 524,219,542,262,0 536,216,554,260,0 617,213,635,257,0 263,210,299,238,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002358.jpg 265,215,285,263,0 279,210,304,272,0 326,219,347,270,0 351,216,372,268,0 369,210,388,257,0 29,206,68,267,0 76,215,115,271,0 97,211,124,268,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002360.jpg 254,220,275,272,0 270,217,294,276,0 318,222,339,272,0 343,222,364,272,0 360,215,380,264,0 18,211,59,277,0 59,218,97,281,0 83,217,117,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002367.jpg 336,223,356,271,0 317,233,340,289,0 290,232,312,286,0 242,226,268,290,0 230,230,249,276,0 13,231,50,294,0 46,230,81,293,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002374.jpg 229,227,253,286,0 278,228,302,287,0 303,229,327,287,0 322,222,343,274,0 507,228,521,261,0 1,228,24,293,0 29,226,65,290,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002383.jpg 494,223,514,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002406.jpg 573,219,599,282,0 599,217,625,280,0 624,232,641,285,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002409.jpg 560,220,585,279,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002423.jpg 521,207,542,258,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002424.jpg 530,208,551,258,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002428.jpg 586,199,616,259,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002432.jpg 517,216,581,263,0 618,211,638,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002439.jpg 459,219,479,268,0 498,217,521,272,0 556,214,585,284,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002459.jpg 485,209,509,267,0 507,208,532,268,0 575,213,600,274,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002474.jpg 586,220,621,284,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002480.jpg 557,224,581,282,0 532,224,556,277,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002485.jpg 594,221,621,287,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002503.jpg 142,207,173,280,0 222,205,240,243,0 119,212,146,270,0 290,204,323,275,0 0,211,40,270,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002513.jpg 168,207,209,310,0 90,205,152,314,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002516.jpg 123,214,159,300,0 183,209,226,318,0 10,213,86,338,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002524.jpg 157,224,194,312,0 232,217,278,329,0 -14,216,37,312,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002539.jpg 9,250,59,372,0 58,223,101,328,0 292,229,335,334,0 348,230,395,344,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002564.jpg 188,233,232,341,0 228,225,268,323,0 259,240,309,362,0 523,232,570,347,0 508,237,551,342,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002567.jpg 207,233,251,340,0 285,237,336,361,0 246,226,287,327,0 544,234,592,352,0 529,236,574,346,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002569.jpg 223,231,267,339,0 260,223,301,322,0 308,240,357,360,0 543,240,584,341,0 558,233,606,349,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002571.jpg 235,230,278,335,0 274,228,313,324,0 324,246,370,358,0 573,240,619,351,0 556,241,598,343,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002578.jpg 606,247,648,349,0 378,241,428,362,0 317,224,357,322,0 282,235,325,340,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002594.jpg 395,239,435,336,0 418,231,457,327,0 500,250,544,357,0 23,218,35,248,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002595.jpg 400,237,439,333,0 424,232,462,324,0 506,247,550,355,0 26,219,38,248,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002616.jpg 142,227,203,376,0 530,241,569,337,0 614,249,660,360,0 45,217,57,246,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002621.jpg 200,230,256,366,0 556,239,596,336,0 585,281,606,331,0 47,216,60,247,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002623.jpg 222,230,278,367,0 565,242,605,340,0 600,278,623,335,0 50,218,63,249,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002647.jpg 182,233,255,412,0 435,237,483,353,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002660.jpg 343,236,405,387,0 533,238,577,345,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002667.jpg 402,240,459,380,0 573,240,615,342,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002706.jpg 537,247,571,331,0 608,244,652,352,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002709.jpg 514,244,550,331,0 594,246,636,349,0 622,260,649,327,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002714.jpg 474,242,509,328,0 551,251,593,353,0 581,262,614,343,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002715.jpg 462,240,499,330,0 547,255,588,356,0 575,269,605,342,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002737.jpg 261,240,301,326,0 483,240,530,355,0 531,256,566,338,0 549,229,590,317,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002738.jpg 250,241,290,326,0 476,242,521,351,0 522,259,556,337,0 532,229,569,321,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002754.jpg 312,221,357,326,0 326,246,369,343,0 296,233,352,352,0 6,233,71,342,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002780.jpg 488,241,559,447,0 516,254,595,462,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002781.jpg 474,241,545,447,0 501,255,580,463,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002786.jpg 406,239,477,445,0 433,257,507,466,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002798.jpg 225,236,310,458,0 234,251,331,486,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002804.jpg 133,258,232,487,0 126,238,229,461,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002831.jpg 589,221,622,296,0 185,211,197,243,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002844.jpg 488,232,534,326,0 546,227,589,321,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002857.jpg 486,231,539,349,0 251,233,320,384,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002858.jpg 221,237,296,390,0 477,228,536,348,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002859.jpg 471,230,531,351,0 192,235,277,394,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002863.jpg 439,220,503,353,0 50,229,160,435,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002867.jpg 319,230,376,370,0 586,237,618,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002880.jpg 88,226,155,383,0 406,222,447,296,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002887.jpg 570,221,597,287,0 335,230,365,303,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002906.jpg 231,234,273,336,0 527,229,561,313,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002913.jpg 529,224,568,311,0 198,229,248,340,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002928.jpg 482,223,530,340,0 56,233,129,384,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002968.jpg 325,218,348,273,0 425,221,445,254,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/002977.jpg 299,216,323,274,0 414,218,431,253,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003008.jpg 150,212,196,309,0 350,219,367,261,0 375,219,394,266,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003042.jpg 33,210,111,384,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003048.jpg 14,211,101,398,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003060.jpg 259,219,275,258,0 275,217,292,259,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003063.jpg 327,215,348,268,0 278,213,298,264,0 260,214,280,260,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003068.jpg 262,215,282,262,0 279,213,300,266,0 336,215,357,271,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003075.jpg 261,218,281,269,0 276,215,299,273,0 346,214,368,275,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003111.jpg 170,227,225,337,0 162,236,209,331,0 442,241,491,360,0 260,217,279,254,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003132.jpg 221,223,243,271,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003143.jpg 185,221,214,281,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003166.jpg 110,220,167,344,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003169.jpg 95,224,158,372,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003176.jpg -9,228,102,455,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003189.jpg 243,212,268,274,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003218.jpg 214,228,250,316,0 367,224,399,302,0 389,232,418,303,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003228.jpg 383,220,422,315,0 410,236,442,315,0 223,230,261,323,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003240.jpg 154,229,200,342,0 352,219,404,345,0 388,236,431,340,0 314,223,341,290,0 336,224,362,288,0 292,217,322,263,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003245.jpg 351,226,409,367,0 391,241,439,359,0 140,235,192,361,0 319,228,346,295,0 292,228,322,300,0 311,226,331,275,0 273,219,294,269,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003246.jpg 142,238,194,365,0 357,225,415,366,0 393,244,442,364,0 319,229,345,293,0 307,230,333,293,0 291,229,318,294,0 276,225,294,269,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003256.jpg 169,226,231,376,0 258,216,297,310,0 296,216,329,297,0 324,216,360,304,0 366,215,392,278,0 388,213,466,403,0 448,244,517,412,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003266.jpg 198,227,266,392,0 284,215,324,313,0 233,216,278,326,0 324,217,368,324,0 356,217,386,291,0 314,211,340,274,0 474,217,582,481,0 534,257,638,510,0 595,218,624,289,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003297.jpg 536,228,583,329,0 244,236,339,468,0 100,227,168,393,0 223,265,233,290,0 5,225,57,498,0 237,211,287,273,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003326.jpg 411,247,504,467,0 576,233,679,480,0 275,215,315,307,0 257,217,284,281,0 242,254,264,306,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003340.jpg 575,247,670,459,0 333,219,373,317,0 308,222,340,293,0 288,254,309,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003347.jpg 341,254,359,294,0 360,220,391,297,0 378,213,424,320,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003351.jpg 381,246,397,283,0 395,217,431,294,0 421,210,467,314,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003367.jpg 61,228,91,302,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003378.jpg 155,228,182,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003429.jpg 345,235,389,343,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003450.jpg 438,252,500,399,0 371,218,402,254,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003452.jpg 453,252,516,406,0 369,218,402,256,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003455.jpg 473,261,546,435,0 367,218,400,255,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003460.jpg 504,269,593,471,0 363,227,398,263,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003461.jpg 515,276,606,486,0 359,223,396,263,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003463.jpg 529,279,627,493,0 356,227,392,265,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003464.jpg 544,283,633,501,0 357,227,394,265,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003467.jpg 348,225,363,261,0 362,224,376,259,0 375,221,391,260,0 588,294,676,509,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003483.jpg 183,207,204,259,0 306,214,322,253,0 318,211,336,254,0 337,213,354,255,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003492.jpg 340,212,358,257,0 318,211,336,255,0 304,209,322,254,0 159,202,185,265,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003505.jpg 122,217,153,292,0 313,226,331,271,0 328,226,346,270,0 351,231,367,271,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003516.jpg 84,202,133,309,0 306,220,329,270,0 324,221,345,270,0 349,221,370,272,0 28,203,86,312,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003524.jpg 294,220,317,277,0 310,219,335,279,0 337,222,359,276,0 29,204,97,345,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003528.jpg 290,218,314,277,0 311,222,335,280,0 335,219,360,280,0 -19,200,68,369,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003529.jpg 290,217,315,279,0 310,218,335,278,0 333,220,358,282,0 -25,202,64,377,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003545.jpg 303,212,332,282,0 327,216,356,287,0 349,218,379,291,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003549.jpg 314,214,343,285,0 338,214,368,288,0 362,215,391,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003550.jpg 317,214,347,287,0 341,211,372,287,0 365,215,395,288,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003553.jpg 328,218,359,293,0 354,215,386,292,0 375,215,405,289,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003554.jpg 335,218,365,290,0 358,216,389,292,0 382,222,409,289,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003575.jpg 470,239,504,323,0 452,241,487,326,0 422,236,457,322,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003579.jpg 421,232,459,324,0 448,235,485,325,0 466,233,501,318,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003582.jpg 415,236,453,329,0 443,238,479,327,0 460,238,494,320,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003583.jpg 413,234,452,328,0 441,233,480,327,0 459,236,494,322,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003602.jpg 387,235,434,350,0 355,230,405,352,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003614.jpg 358,236,424,397,0 394,236,456,388,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003628.jpg 471,239,547,422,0 508,250,609,484,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003636.jpg 524,244,615,460,0 573,250,685,508,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003637.jpg 534,246,625,463,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003639.jpg 530,241,633,469,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003650.jpg 86,226,118,305,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003661.jpg 193,224,230,311,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003662.jpg 197,223,234,313,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003671.jpg 156,219,204,325,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003680.jpg 104,219,158,344,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003681.jpg 102,224,154,353,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003684.jpg 96,254,153,384,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003685.jpg 91,255,153,387,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003699.jpg 273,225,291,270,0 299,229,315,269,0 319,225,362,273,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003701.jpg 278,234,294,273,0 300,232,316,270,0 322,231,367,277,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003710.jpg 269,232,290,282,0 307,233,328,283,0 336,237,354,280,0 350,235,368,279,0 387,237,407,286,0 423,238,443,287,0 521,238,540,285,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003724.jpg 248,236,273,296,0 261,238,285,296,0 293,234,316,290,0 345,233,369,291,0 364,246,382,291,0 327,228,341,263,0 529,227,552,282,0 611,235,638,302,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003751.jpg 438,200,456,243,0 450,206,472,259,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003768.jpg 532,207,562,281,0 520,201,543,256,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003769.jpg 520,201,544,259,0 422,210,434,240,0 401,207,412,234,0 539,211,571,289,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003770.jpg 425,213,436,241,0 402,209,412,234,0 548,214,579,290,0 522,198,548,261,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003786.jpg 385,208,404,255,0 446,205,469,261,0 504,208,522,252,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003794.jpg 539,208,562,263,0 474,208,500,272,0 403,213,424,264,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003797.jpg 408,216,429,267,0 485,208,513,277,0 549,209,573,268,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003800.jpg 414,218,436,271,0 498,214,525,281,0 564,214,589,274,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003824.jpg 390,217,404,251,0 401,212,419,255,0 467,212,495,280,0 489,216,530,317,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003825.jpg 390,221,404,254,0 400,215,416,255,0 470,214,497,281,0 497,213,540,318,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003829.jpg 393,227,408,263,0 408,221,424,260,0 500,224,531,300,0 538,225,588,347,0 576,219,610,302,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003830.jpg 392,226,407,262,0 408,221,424,260,0 507,220,539,299,0 550,223,604,354,0 554,216,614,300,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003837.jpg 394,220,411,261,0 413,214,433,263,0 595,215,643,334,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003858.jpg 462,228,491,298,0 487,219,520,299,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003890.jpg 527,219,576,322,0 481,214,516,295,0 451,215,477,279,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003893.jpg 561,223,616,341,0 496,217,533,307,0 461,222,488,284,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003897.jpg 479,224,508,293,0 523,217,568,324,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003899.jpg 492,220,523,296,0 547,221,599,343,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003901.jpg 505,219,537,300,0 568,218,632,353,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003906.jpg 543,222,589,325,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003908.jpg 564,222,615,333,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003909.jpg 578,219,633,339,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003918.jpg 537,231,557,280,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003927.jpg 415,217,433,262,0 499,213,523,272,0 449,221,470,273,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003931.jpg 427,215,449,269,0 447,211,467,259,0 469,218,495,281,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003935.jpg 437,220,459,274,0 456,214,477,264,0 498,230,525,296,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003936.jpg 507,217,537,290,0 441,220,462,271,0 457,210,477,258,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003952.jpg 532,225,563,301,0 561,224,602,325,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003954.jpg 542,227,577,312,0 582,226,630,342,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003957.jpg 563,220,602,313,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003958.jpg 567,226,610,324,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003966.jpg 417,217,436,263,0 432,214,453,265,0 511,219,533,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003967.jpg 421,219,440,266,0 436,214,456,263,0 517,220,539,274,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003980.jpg 477,216,507,290,0 502,210,533,285,0 609,216,637,285,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003989.jpg 595,229,643,336,0 553,233,602,342,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/003994.jpg 339,214,359,263,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004026.jpg 394,213,427,293,0 526,215,546,264,0 425,213,467,255,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004046.jpg 458,213,472,248,0 498,215,518,263,0 519,221,544,283,0 535,218,560,279,0 548,208,569,258,0 519,209,544,269,0 609,226,643,308,0 403,215,440,245,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004053.jpg 538,223,564,287,0 561,216,590,286,0 580,234,610,306,0 594,228,628,310,0 623,222,652,292,0 428,225,490,267,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004077.jpg 535,217,563,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004093.jpg 582,213,599,255,0 541,218,563,271,0 555,214,580,275,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004094.jpg 543,212,566,269,0 556,204,585,275,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004098.jpg 580,218,611,294,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004102.jpg 564,233,591,299,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004111.jpg 570,222,591,273,0 346,228,410,271,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004118.jpg 580,217,604,275,0 351,221,423,269,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004122.jpg 591,213,615,271,0 354,215,434,268,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004125.jpg 360,211,446,267,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004133.jpg 372,224,397,286,0 399,216,472,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004142.jpg 386,236,410,294,0 398,230,429,305,0 450,239,478,308,0 424,231,451,297,0 474,238,496,292,0 493,236,521,304,0 524,217,553,288,0 495,220,520,282,0 473,218,497,277,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004154.jpg 415,230,447,307,0 436,227,479,331,0 471,229,507,317,0 509,224,546,315,0 517,238,558,338,0 548,229,586,321,0 574,226,614,324,0 582,213,620,306,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004159.jpg 436,244,473,334,0 442,234,480,326,0 462,236,510,353,0 469,224,509,322,0 473,220,513,318,0 501,238,543,341,0 546,237,592,348,0 563,248,614,372,0 588,234,637,354,0 606,246,657,370,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004171.jpg 469,214,491,268,0 498,257,554,393,0 527,240,578,365,0 549,230,619,400,0 570,251,652,452,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004185.jpg 504,210,536,288,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004191.jpg 427,218,452,292,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004200.jpg 450,225,476,299,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004219.jpg 585,234,628,340,0 163,216,180,257,0 233,218,247,251,0 220,231,229,254,0 76,201,129,248,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004221.jpg 240,213,257,254,0 228,228,239,256,0 591,237,627,325,0 550,221,567,262,0 100,209,174,259,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004247.jpg 574,223,602,292,0 4,213,63,295,0 75,209,113,258,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004248.jpg 576,221,602,285,0 3,208,63,294,0 76,211,107,248,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004261.jpg 362,222,383,274,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004266.jpg 383,226,407,285,0 374,249,388,282,0 474,220,492,265,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004271.jpg 416,227,440,286,0 542,222,566,281,0 400,244,418,289,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004274.jpg 436,228,460,287,0 561,222,585,281,0 468,222,490,281,0 497,216,521,273,0 422,247,441,293,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004307.jpg 542,213,573,285,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004328.jpg 567,217,588,263,0 530,214,558,283,0 540,213,565,273,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004329.jpg 535,216,563,285,0 548,214,576,272,0 575,215,596,265,0 604,219,629,274,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004332.jpg 551,221,578,280,0 566,215,603,296,0 584,218,619,293,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004339.jpg 403,217,421,262,0 335,213,352,255,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004354.jpg 498,221,524,285,0 370,210,400,284,0 401,212,422,262,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004365.jpg 416,216,436,264,0 433,212,466,293,0 454,207,508,339,0 505,210,536,285,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004375.jpg 396,212,418,266,0 451,219,467,259,0 490,214,522,293,0 553,205,641,321,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004379.jpg 420,211,447,274,0 477,217,498,266,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004381.jpg 431,215,457,278,0 490,220,512,271,0 549,222,588,308,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004382.jpg 433,216,464,288,0 500,216,523,273,0 571,224,619,326,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004398.jpg 448,215,470,269,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004404.jpg 480,217,506,280,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004429.jpg 470,217,488,260,0 558,219,581,276,0 604,216,635,276,0 417,221,448,248,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004433.jpg 434,203,449,240,0 447,207,460,238,0 485,205,504,251,0 594,204,628,274,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004474.jpg 558,212,587,271,0 176,205,189,240,0 190,213,201,240,0 231,207,243,237,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004477.jpg 113,221,133,262,0 54,217,86,255,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004491.jpg 54,214,84,263,0 6,211,40,264,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004508.jpg 538,227,572,309,0 602,214,631,285,0 585,221,612,287,0 484,227,509,289,0 462,221,486,279,0 447,226,468,276,0 443,225,461,270,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004511.jpg 584,233,634,332,0 512,227,541,298,0 487,227,512,288,0 468,227,492,285,0 461,228,482,280,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004516.jpg 503,228,535,306,0 576,230,619,321,0 539,227,575,313,0 520,229,550,304,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004518.jpg 533,227,641,335,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004526.jpg 445,211,464,257,0 39,217,61,250,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004534.jpg 507,210,533,274,0 490,210,514,269,0 294,216,307,247,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004558.jpg 398,223,431,290,0 418,219,446,244,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004560.jpg 416,223,449,300,0 420,215,451,243,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004562.jpg 435,232,466,308,0 416,221,456,249,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004569.jpg 539,240,592,369,0 450,221,467,262,0 442,223,456,256,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004575.jpg 471,218,492,270,0 459,219,478,265,0 423,214,438,251,0 411,214,423,244,0 576,240,612,280,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004579.jpg 414,208,429,245,0 428,209,446,253,0 476,220,497,271,0 489,212,514,274,0 611,240,641,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004593.jpg 459,218,477,263,0 488,219,509,270,0 539,226,566,292,0 554,224,581,291,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004601.jpg 508,208,533,260,0 558,212,588,280,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004613.jpg 461,215,483,273,0 591,224,619,293,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004631.jpg 449,232,471,287,0 463,230,488,291,0 497,222,599,259,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004661.jpg 458,208,478,250,0 526,215,560,282,0 551,217,576,277,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004666.jpg 498,211,516,256,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004672.jpg 559,215,585,278,0 323,210,335,239,0 46,211,60,244,0 95,218,110,254,0 453,216,467,250,0 389,214,423,246,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004688.jpg 352,212,366,245,0 435,215,453,258,0 445,213,463,257,0 470,215,490,264,0 513,216,539,279,0 590,214,617,279,0 611,208,633,248,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004702.jpg 400,218,418,261,0 559,222,605,315,0 580,217,629,318,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004703.jpg 405,219,424,265,0 572,224,628,327,0 599,223,654,323,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004707.jpg 449,220,472,277,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004719.jpg 556,226,599,315,0 71,208,126,242,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004727.jpg 527,218,547,262,0 535,211,555,261,0 593,213,614,257,0 492,212,511,257,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004729.jpg 552,230,572,280,0 559,220,579,274,0 520,222,540,277,0 618,223,645,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004736.jpg 584,214,617,286,0 610,222,647,292,0 558,216,577,254,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004738.jpg 507,211,520,243,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004749.jpg 563,211,580,252,0 535,212,555,242,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004760.jpg 253,221,274,265,0 273,222,294,268,0 296,224,316,273,0 218,222,240,277,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004767.jpg 253,219,275,268,0 279,225,300,274,0 310,223,331,277,0 197,218,223,280,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004781.jpg 247,217,273,282,0 96,220,135,307,0 322,222,350,284,0 275,221,301,285,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004794.jpg 232,216,262,299,0 265,221,292,299,0 326,222,343,263,0 294,221,324,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004800.jpg 222,215,254,306,0 257,221,285,304,0 294,214,320,300,0 325,222,344,268,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004812.jpg 200,213,236,323,0 240,223,270,322,0 274,214,306,318,0 323,227,344,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004818.jpg 190,211,229,332,0 232,227,264,332,0 265,215,300,327,0 321,226,344,274,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004838.jpg 292,224,319,288,0 240,223,296,354,0 203,224,262,371,0 149,214,215,378,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004856.jpg 110,219,191,419,0 196,236,269,412,0 226,225,284,359,0 178,227,232,340,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004857.jpg 104,218,191,428,0 194,237,269,419,0 222,228,284,374,0 177,227,218,325,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004879.jpg 1,239,116,501,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004883.jpg 217,212,238,264,0 265,217,293,285,0 335,217,353,242,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004888.jpg 210,221,231,273,0 229,229,254,290,0 338,224,353,247,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004889.jpg 198,213,222,272,0 177,220,204,287,0 253,214,268,250,0 338,219,359,245,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004921.jpg 179,220,212,301,0 90,224,138,334,0 356,226,382,269,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004924.jpg 66,221,121,351,0 158,221,197,317,0 357,228,382,267,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004925.jpg 151,220,191,312,0 54,224,116,362,0 356,228,388,268,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004933.jpg 355,229,374,276,0 371,227,390,274,0 341,227,357,265,0 59,225,122,367,0 1,234,45,420,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004949.jpg 328,222,348,271,0 365,225,392,290,0 386,228,412,292,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004952.jpg 330,222,352,276,0 374,222,407,302,0 396,226,426,298,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004959.jpg 350,224,373,279,0 412,231,448,320,0 437,228,473,316,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004960.jpg 353,226,375,280,0 419,231,456,321,0 443,226,481,318,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004966.jpg 374,227,399,288,0 465,232,513,350,0 502,236,549,351,0 249,230,264,266,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004970.jpg 389,224,416,290,0 554,236,613,381,0 508,233,567,378,0 254,226,268,261,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004971.jpg 393,227,419,290,0 520,239,579,384,0 569,242,626,382,0 257,227,271,261,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004973.jpg 397,224,425,292,0 547,234,617,405,0 601,240,667,401,0 258,226,274,264,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004975.jpg 404,225,432,293,0 255,220,274,266,0 584,242,663,434,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/004994.jpg 159,213,187,279,0 372,220,418,333,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005019.jpg 196,221,224,289,0 307,227,319,257,0 328,226,340,256,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005031.jpg 139,220,171,297,0 266,221,281,258,0 309,224,325,264,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005044.jpg 56,217,105,330,0 303,220,322,266,0 241,223,255,258,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005060.jpg 345,225,370,287,0 249,221,264,258,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005065.jpg 378,227,406,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005093.jpg 354,222,375,274,0 126,217,144,261,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005128.jpg 202,225,225,282,0 257,219,274,260,0 459,224,484,284,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005129.jpg 210,220,235,280,0 266,219,285,265,0 467,223,495,291,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005149.jpg 262,226,291,297,0 312,222,334,275,0 561,234,591,308,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005175.jpg 598,237,644,349,0 118,220,165,335,0 2,230,38,352,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005190.jpg 531,221,552,273,0 503,221,524,273,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005195.jpg 524,222,546,275,0 552,217,576,275,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005205.jpg 591,229,622,305,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005211.jpg 550,225,573,282,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005213.jpg 552,224,575,281,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005218.jpg 566,224,591,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005234.jpg 317,215,338,265,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005238.jpg 265,211,284,258,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005253.jpg 365,205,388,260,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005261.jpg 345,211,369,269,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005263.jpg 340,209,366,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005264.jpg 337,210,362,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005292.jpg 136,236,192,362,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005300.jpg 231,226,248,267,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005315.jpg 108,231,132,282,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005341.jpg 70,224,92,277,0 117,218,137,266,0 137,222,155,267,0 256,220,272,260,0 271,215,289,259,0 377,217,393,255,0 224,215,237,246,0 238,216,252,250,0 291,220,308,244,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005355.jpg 14,216,41,283,0 43,220,68,282,0 176,215,194,260,0 200,213,218,257,0 217,213,233,252,0 223,220,244,270,0 240,215,258,259,0 356,220,377,271,0 266,215,283,253,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005369.jpg 98,213,124,276,0 129,215,154,276,0 150,207,182,284,0 178,211,197,257,0 189,216,217,284,0 234,215,249,252,0 246,216,261,252,0 324,216,350,280,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005386.jpg 8,207,50,309,0 59,213,97,305,0 107,218,142,304,0 125,214,161,303,0 162,213,186,271,0 177,212,202,274,0 245,219,263,263,0 255,216,273,259,0 344,229,380,316,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005396.jpg 385,237,428,341,0 284,228,303,274,0 270,225,289,272,0 206,221,231,283,0 189,217,215,281,0 93,221,135,324,0 68,213,111,318,0 17,220,56,315,0 1,216,18,331,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005402.jpg -8,214,44,342,0 35,212,84,331,0 71,222,118,337,0 215,214,242,280,0 236,218,263,284,0 300,220,321,271,0 313,221,332,268,0 421,235,472,359,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005415.jpg 538,257,608,427,0 -2,230,71,388,0 292,226,322,299,0 320,233,347,299,0 373,231,394,283,0 383,231,404,283,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005423.jpg 338,201,368,275,0 365,200,395,274,0 414,202,436,255,0 426,203,447,253,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005430.jpg 376,233,408,311,0 408,231,440,309,0 445,237,467,290,0 457,237,479,291,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005434.jpg 395,224,431,311,0 430,225,464,308,0 462,228,485,284,0 476,232,499,287,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005450.jpg 512,230,558,341,0 547,233,590,339,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005458.jpg 575,231,627,358,0 610,234,661,359,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005469.jpg 569,237,611,335,0 591,241,627,329,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005472.jpg 567,237,614,350,0 596,245,632,348,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005473.jpg 569,242,616,347,0 598,245,638,342,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005476.jpg 576,238,627,363,0 603,245,657,363,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005481.jpg 291,244,303,273,0 299,245,315,283,0 324,248,339,284,0 331,244,347,284,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005501.jpg 310,218,328,262,0 324,218,342,261,0 338,216,356,261,0 341,225,362,276,0 355,220,379,278,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005511.jpg 312,221,333,271,0 332,221,352,269,0 348,216,372,274,0 365,228,386,279,0 380,219,403,275,0 398,225,428,298,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005514.jpg 316,216,339,273,0 335,219,356,271,0 354,215,379,277,0 375,228,396,278,0 391,219,414,274,0 416,225,449,305,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005517.jpg 317,216,342,278,0 340,219,361,270,0 350,220,370,268,0 362,214,387,274,0 384,226,406,279,0 400,218,423,275,0 434,223,473,318,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005522.jpg 327,237,352,299,0 351,240,374,296,0 366,241,385,288,0 375,234,402,301,0 400,245,423,302,0 415,237,441,300,0 468,245,512,352,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005523.jpg 331,234,357,297,0 353,235,376,292,0 366,236,388,289,0 378,230,405,295,0 403,242,428,302,0 419,234,444,296,0 477,242,520,348,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005524.jpg 330,229,357,294,0 351,227,379,295,0 370,232,389,279,0 378,221,410,299,0 404,236,429,296,0 420,227,447,293,0 486,235,532,348,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005534.jpg 356,223,389,304,0 403,223,433,295,0 387,225,418,300,0 425,216,463,309,0 455,218,486,293,0 619,242,641,412,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005539.jpg 377,226,415,319,0 415,227,453,320,0 454,221,494,319,0 476,224,508,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005554.jpg 514,236,593,412,0 561,242,641,413,0 554,227,586,305,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005581.jpg 278,215,289,241,0 358,224,376,269,0 377,219,395,264,0 318,218,337,238,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005594.jpg 391,227,417,290,0 414,224,442,292,0 274,216,288,250,0 325,217,354,242,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005599.jpg 274,216,290,254,0 411,229,441,302,0 435,221,466,297,0 326,218,362,246,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005600.jpg 275,218,289,252,0 416,234,445,305,0 442,223,475,303,0 327,219,363,244,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005631.jpg 347,225,365,269,0 173,222,212,316,0 306,221,327,247,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005641.jpg 321,225,341,274,0 288,217,302,251,0 278,221,288,246,0 3,233,70,407,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005648.jpg 331,220,356,280,0 293,214,309,253,0 283,221,293,246,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005662.jpg 442,231,477,317,0 384,220,403,267,0 376,225,390,260,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005720.jpg 529,236,568,329,0 574,221,616,328,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005732.jpg 417,214,436,260,0 429,212,448,259,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005733.jpg 422,217,440,260,0 432,211,453,262,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005756.jpg 544,211,591,321,0 574,207,620,316,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005757.jpg 587,207,632,318,0 555,213,595,311,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005763.jpg 566,209,603,300,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005764.jpg 578,205,618,302,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005767.jpg 512,203,538,274,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005769.jpg 547,202,575,283,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005772.jpg 477,214,499,268,0 457,215,474,256,0 107,206,137,231,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005775.jpg 488,213,512,272,0 467,213,484,254,0 97,203,150,229,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005786.jpg 503,212,528,271,0 546,213,577,289,0 265,211,312,232,0 38,205,113,235,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005804.jpg 533,218,557,288,0 452,218,473,265,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005810.jpg 554,216,582,299,0 454,218,475,267,0 482,210,505,266,0 192,209,205,240,0 240,209,253,241,0 58,202,74,240,0 80,205,94,240,0 155,210,177,242,0 11,205,32,234,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005814.jpg 579,213,610,304,0 466,219,487,269,0 190,207,204,242,0 164,205,178,240,0 152,207,163,235,0 243,208,257,243,0 502,214,524,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005818.jpg 486,220,506,272,0 170,208,185,245,0 157,209,171,242,0 198,213,210,243,0 214,211,228,245,0 115,209,129,242,0 610,217,649,312,0 524,209,549,276,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005820.jpg 498,220,518,268,0 531,216,554,272,0 202,211,216,244,0 215,210,230,246,0 176,209,188,239,0 161,209,174,241,0 128,208,142,242,0 50,208,72,243,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005823.jpg 518,223,537,269,0 551,208,578,274,0 172,209,185,241,0 188,211,203,248,0 213,211,228,247,0 149,211,163,244,0 74,209,94,241,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005825.jpg 562,208,592,282,0 533,224,552,271,0 277,209,293,249,0 91,208,108,246,0 170,210,211,243,0 491,216,506,245,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005862.jpg 146,218,160,251,0 244,211,261,252,0 259,219,271,248,0 276,216,292,254,0 591,234,610,281,0 597,221,628,297,0 180,216,235,251,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005875.jpg 599,229,620,281,0 615,221,644,303,0 118,216,134,256,0 162,214,175,246,0 274,214,288,249,0 186,213,216,232,0 301,222,324,236,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005878.jpg 603,230,626,286,0 615,220,647,297,0 112,219,125,251,0 220,217,244,248,0 282,215,333,233,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005883.jpg 609,226,634,286,0 49,212,69,260,0 5,210,33,243,0 405,216,441,249,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005892.jpg 598,225,622,283,0 7,215,52,251,0 409,213,443,243,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005898.jpg 598,225,622,283,0 5,215,35,247,0 407,216,445,246,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005924.jpg 581,226,606,287,0 622,227,645,283,0 1,213,21,243,0 409,218,443,245,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005937.jpg 577,227,601,286,0 615,228,638,283,0 409,218,442,246,0 1,213,23,248,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005944.jpg 583,231,603,280,0 618,229,638,277,0 407,217,443,245,0 3,213,23,244,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005945.jpg 582,227,603,279,0 617,223,653,310,0 412,217,440,242,0 3,216,22,242,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005953.jpg 580,228,602,281,0 617,227,639,285,0 599,229,632,313,0 410,216,444,243,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005962.jpg 560,230,594,312,0 598,238,649,362,0 583,228,605,281,0 409,215,438,246,0 6,210,24,243,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005995.jpg 392,226,434,328,0 447,225,490,331,0 94,222,131,313,0 616,225,641,287,0 581,226,607,289,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/005999.jpg 364,226,406,328,0 415,227,457,329,0 578,224,604,288,0 614,226,640,289,0 16,220,67,310,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006002.jpg 349,222,391,324,0 394,218,437,323,0 579,227,604,287,0 617,223,643,286,0 1,220,37,309,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006010.jpg 617,227,639,285,0 344,217,377,321,0 313,220,346,317,0 577,227,602,288,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006025.jpg 214,218,260,330,0 581,228,605,286,0 617,229,640,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006033.jpg 581,227,604,282,0 591,228,614,284,0 619,220,643,279,0 163,219,206,324,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006053.jpg 19,212,67,328,0 445,230,477,307,0 464,228,496,305,0 579,228,606,293,0 614,227,640,291,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006061.jpg -17,208,40,348,0 580,227,606,291,0 615,227,641,290,0 391,227,439,310,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006066.jpg 617,227,639,285,0 20,207,75,343,0 578,225,605,290,0 360,232,404,318,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006071.jpg 55,210,108,340,0 331,222,372,322,0 581,229,606,290,0 616,226,641,288,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006100.jpg 580,226,605,287,0 618,227,640,281,0 262,217,311,337,0 137,221,176,317,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006113.jpg 356,222,408,350,0 42,220,89,319,0 579,228,606,293,0 618,229,642,287,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006120.jpg 407,220,462,354,0 579,228,605,292,0 619,227,642,282,0 1,222,46,317,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006125.jpg 438,224,494,361,0 618,226,642,284,0 579,227,605,290,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006129.jpg 468,225,525,364,0 578,227,603,287,0 617,224,642,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006138.jpg 539,225,600,374,0 619,224,643,282,0 581,226,606,288,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006146.jpg 618,227,640,285,0 602,233,638,369,0 580,227,605,288,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006153.jpg 617,227,639,285,0 576,226,602,289,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006159.jpg 617,227,639,285,0 573,227,598,289,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006173.jpg 617,227,639,285,0 561,228,585,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006186.jpg 564,227,587,281,0 617,227,639,285,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006202.jpg 562,227,586,283,0 617,228,639,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006219.jpg 559,228,584,285,0 617,228,639,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006220.jpg 559,228,584,285,0 617,228,639,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006230.jpg 559,228,584,286,0 617,228,639,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006234.jpg 559,228,584,287,0 617,228,639,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006235.jpg 559,228,584,287,0 617,228,639,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006243.jpg 562,228,588,288,0 618,228,640,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006254.jpg 568,230,596,298,0 627,228,641,287,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006255.jpg 570,229,599,299,0 627,234,641,292,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006256.jpg 570,230,597,297,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006272.jpg 603,233,634,309,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006277.jpg 513,226,538,288,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006278.jpg 521,226,549,294,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006296.jpg 582,218,602,267,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006299.jpg 470,215,486,254,0 499,220,516,262,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006302.jpg 483,216,500,257,0 527,222,550,277,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006304.jpg 445,222,461,262,0 490,219,509,265,0 547,222,575,285,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006306.jpg 571,222,608,297,0 502,216,521,263,0 451,220,469,263,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006310.jpg 466,227,487,272,0 528,215,550,269,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006313.jpg 478,218,501,270,0 553,212,578,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006314.jpg 483,217,507,272,0 564,210,589,271,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006315.jpg 577,213,607,279,0 490,216,515,273,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006336.jpg 587,183,616,258,0 471,191,500,228,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006342.jpg 551,183,576,244,0 537,188,560,243,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006346.jpg 593,177,637,251,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006356.jpg 605,220,632,304,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006358.jpg 425,218,445,265,0 457,218,477,269,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006372.jpg 534,225,579,309,0 583,219,629,298,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006375.jpg 544,206,566,260,0 521,207,542,253,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006399.jpg 195,211,220,266,0 295,212,317,264,0 277,214,300,266,0 331,211,351,264,0 400,207,421,256,0 457,205,480,255,0 153,207,178,267,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006404.jpg 295,213,322,277,0 402,210,428,270,0 359,213,381,273,0 317,214,342,275,0 205,212,230,272,0 152,212,177,273,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006406.jpg 305,214,332,284,0 207,210,240,279,0 331,212,358,276,0 404,207,433,274,0 373,212,396,275,0 153,211,180,276,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006412.jpg 160,209,192,286,0 226,215,255,285,0 330,212,362,289,0 367,215,397,289,0 422,208,453,284,0 439,196,470,272,0 407,212,435,280,0 491,202,520,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006434.jpg 529,282,529,283,0 242,222,285,328,0 298,222,339,321,0 353,223,391,316,0 581,205,616,291,0 553,212,596,318,0 481,207,556,302,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006453.jpg 599,223,641,325,0 14,216,59,326,0 30,227,70,325,0 567,221,599,300,0 554,208,590,296,0 371,227,416,337,0 472,209,541,320,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006459.jpg 594,222,637,328,0 581,206,616,292,0 412,229,458,340,0 59,215,104,325,0 71,229,110,325,0 499,209,547,317,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006462.jpg 494,216,528,299,0 516,206,550,288,0 594,222,637,328,0 81,221,124,325,0 431,226,474,331,0 519,218,558,313,0 581,206,616,292,0 97,233,133,322,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006468.jpg 598,224,641,328,0 124,220,166,323,0 140,231,176,320,0 463,224,507,331,0 495,215,529,298,0 515,210,548,290,0 550,210,599,308,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006475.jpg 596,231,637,330,0 549,209,584,294,0 176,218,217,319,0 188,229,225,320,0 568,215,601,296,0 497,207,546,318,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006484.jpg 596,231,637,330,0 534,209,575,310,0 255,227,294,322,0 243,223,285,325,0 497,215,541,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006489.jpg 596,231,637,330,0 272,222,316,330,0 290,232,330,329,0 509,221,547,313,0 552,212,591,306,0 506,209,561,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006510.jpg 596,231,637,330,0 547,215,586,309,0 423,226,464,327,0 506,209,561,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006516.jpg 553,215,592,311,0 461,223,503,326,0 596,231,637,330,0 506,209,561,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006518.jpg 600,225,643,331,0 473,220,514,319,0 553,215,592,311,0 506,209,561,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006524.jpg 565,216,604,311,0 600,225,643,331,0 504,218,542,311,0 506,209,561,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006526.jpg 609,214,655,325,0 565,216,604,311,0 513,217,553,314,0 506,209,561,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006527.jpg 609,214,655,325,0 565,216,604,311,0 516,217,555,312,0 506,209,561,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006533.jpg 609,214,655,325,0 565,216,604,311,0 540,211,578,304,0 506,209,561,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006544.jpg 609,214,655,325,0 566,216,604,309,0 587,206,626,300,0 506,209,561,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006551.jpg 609,214,655,325,0 566,216,604,309,0 506,209,561,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006561.jpg 609,214,655,325,0 566,216,604,309,0 506,209,561,295,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006574.jpg 609,214,655,325,0 566,216,604,309,0 496,215,560,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006584.jpg 561,214,600,309,0 609,214,655,325,0 148,213,162,247,0 496,215,560,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006597.jpg 561,214,600,309,0 609,214,655,325,0 181,214,194,245,0 496,215,560,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006599.jpg 561,214,600,309,0 609,214,655,325,0 184,215,197,246,0 496,215,560,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006616.jpg 561,214,600,309,0 609,214,655,325,0 225,216,240,246,0 496,215,560,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006623.jpg 561,214,600,309,0 609,214,655,325,0 240,213,254,248,0 496,215,560,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006630.jpg 561,214,600,309,0 609,214,655,325,0 253,212,267,247,0 496,215,560,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006633.jpg 561,214,600,309,0 609,214,655,325,0 260,211,276,249,0 496,215,560,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006637.jpg 561,214,600,309,0 609,214,655,325,0 270,212,285,249,0 496,215,560,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006644.jpg 561,214,600,309,0 609,214,655,325,0 288,216,300,246,0 496,215,560,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006658.jpg 561,214,600,309,0 609,214,655,325,0 319,213,330,241,0 496,215,560,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006671.jpg 561,214,600,309,0 609,214,655,325,0 491,210,542,302,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006673.jpg 561,214,600,309,0 609,214,655,325,0 491,210,542,302,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006711.jpg 561,214,600,309,0 609,214,655,325,0 491,210,542,302,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006739.jpg 563,216,602,311,0 606,215,649,319,0 493,213,545,297,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006741.jpg 563,220,602,314,0 609,222,653,330,0 498,215,542,299,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006742.jpg 564,220,603,315,0 610,218,655,328,0 498,215,544,299,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006749.jpg 494,221,525,291,0 572,219,611,314,0 513,227,547,304,0 512,209,548,282,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006754.jpg 527,223,561,309,0 577,220,619,318,0 533,213,567,292,0 499,220,534,291,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006766.jpg 400,227,426,278,0 443,214,467,267,0 454,215,477,267,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006767.jpg 404,226,428,280,0 448,215,472,268,0 460,216,483,271,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006784.jpg 398,217,418,265,0 563,218,586,274,0 583,216,607,274,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006799.jpg 492,231,532,323,0 463,221,502,307,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006806.jpg 551,238,601,344,0 540,213,571,289,0 607,240,641,385,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006808.jpg 552,215,587,299,0 580,218,613,296,0 574,239,627,356,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006818.jpg 372,207,399,273,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006822.jpg 381,215,410,286,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006837.jpg 466,221,518,345,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006888.jpg 601,224,629,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006893.jpg 527,223,556,274,0 557,224,589,277,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006900.jpg 444,216,472,273,0 481,215,509,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006901.jpg 432,221,460,272,0 468,220,497,272,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006915.jpg 331,219,355,278,0 370,214,397,279,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006927.jpg 310,223,337,288,0 351,220,378,285,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006945.jpg 316,219,347,295,0 359,220,388,290,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006946.jpg 358,220,390,297,0 319,218,349,290,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006974.jpg 216,214,261,326,0 288,221,337,323,0 346,217,363,255,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006991.jpg 112,221,174,364,0 185,232,240,367,0 316,220,333,261,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006993.jpg 101,224,162,369,0 170,226,226,370,0 314,218,332,258,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/006994.jpg 90,223,157,374,0 166,226,224,371,0 311,217,330,260,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007002.jpg 39,219,111,387,0 125,230,191,394,0 308,216,326,256,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007015.jpg 24,216,98,398,0 108,230,177,399,0 327,215,345,253,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007018.jpg 24,220,105,405,0 105,223,178,406,0 335,215,353,254,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007026.jpg 50,221,124,400,0 138,229,209,409,0 351,217,367,254,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007028.jpg 63,227,133,396,0 139,229,215,400,0 355,218,373,256,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007036.jpg 108,228,182,398,0 186,231,251,397,0 386,220,403,258,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007041.jpg 133,228,202,387,0 200,234,269,396,0 403,219,419,257,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007118.jpg 299,222,330,294,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007130.jpg 190,202,230,299,0 462,222,501,305,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007132.jpg 454,222,490,303,0 169,203,212,301,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007136.jpg 132,214,176,319,0 435,233,468,314,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007150.jpg 545,224,579,295,0 572,225,603,294,0 610,237,646,320,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007154.jpg 513,226,550,301,0 489,228,524,299,0 564,243,606,335,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007184.jpg 341,216,385,317,0 297,216,342,323,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007200.jpg 176,221,235,366,0 245,214,307,364,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007210.jpg 51,220,140,415,0 131,220,215,412,0 177,207,201,260,0 208,216,253,251,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007223.jpg 99,220,126,281,0 87,218,113,280,0 306,220,331,281,0 125,210,206,249,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007243.jpg 142,217,174,283,0 127,223,154,286,0 296,216,326,279,0 170,212,193,256,0 188,207,209,256,0 244,211,262,247,0 215,209,237,248,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007251.jpg 331,226,358,285,0 215,223,240,285,0 194,231,222,291,0 242,214,265,260,0 267,217,289,258,0 302,222,317,259,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007263.jpg 275,223,304,294,0 263,226,294,296,0 376,224,404,286,0 330,221,346,261,0 312,218,332,267,0 349,230,376,259,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007272.jpg 320,223,350,299,0 302,226,333,301,0 403,225,432,290,0 351,217,374,266,0 371,218,389,260,0 388,223,403,260,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007274.jpg 321,224,351,301,0 304,225,334,301,0 401,225,430,291,0 350,215,375,269,0 376,225,401,263,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007303.jpg 211,227,258,353,0 189,226,235,359,0 286,225,323,315,0 317,230,337,281,0 241,229,263,280,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007320.jpg 137,228,209,433,0 80,230,146,439,0 217,222,263,340,0 257,203,288,282,0 230,216,263,289,0 316,216,340,280,0 291,211,315,281,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007329.jpg 56,250,158,496,0 -20,238,102,504,0 171,232,217,344,0 214,223,247,294,0 238,214,269,285,0 278,219,306,288,0 308,223,339,291,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007330.jpg 35,245,148,503,0 -35,238,88,509,0 159,233,208,358,0 208,218,240,297,0 235,211,267,289,0 276,217,304,285,0 305,220,332,287,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007336.jpg 201,204,234,288,0 174,221,210,305,0 273,221,300,296,0 245,212,273,292,0 107,230,156,350,0 1,247,58,511,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007346.jpg 209,213,241,296,0 237,219,266,299,0 264,224,289,285,0 38,234,95,370,0 133,222,173,312,0 167,208,200,281,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007350.jpg 37,243,92,377,0 137,225,174,312,0 168,212,207,293,0 215,218,253,299,0 246,228,275,296,0 265,227,298,297,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007354.jpg 51,233,112,393,0 188,209,224,299,0 257,219,288,303,0 289,224,321,303,0 236,217,275,291,0 150,226,190,314,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007357.jpg 74,243,132,391,0 165,235,205,319,0 203,218,239,294,0 261,236,296,308,0 265,223,297,293,0 287,233,323,310,0 308,229,344,310,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007364.jpg 115,244,176,395,0 206,230,248,322,0 179,221,215,307,0 240,212,279,296,0 289,230,324,314,0 316,216,357,295,0 333,226,375,319,0 357,226,399,319,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007365.jpg 119,243,186,393,0 212,230,257,329,0 182,223,222,308,0 241,207,283,292,0 294,230,334,316,0 365,220,409,320,0 326,217,366,297,0 338,224,381,317,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007373.jpg 155,243,224,416,0 182,228,229,340,0 230,231,281,347,0 267,210,308,306,0 313,227,356,334,0 376,219,420,318,0 403,235,453,358,0 429,230,484,352,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007374.jpg 155,251,225,421,0 229,232,282,347,0 272,209,310,302,0 307,224,356,340,0 379,218,418,313,0 405,233,463,368,0 437,230,490,351,0 179,228,233,347,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007393.jpg 268,206,310,310,0 426,213,473,343,0 274,231,331,378,0 166,240,246,442,0 149,234,202,367,0 133,224,183,345,0 227,235,277,345,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007414.jpg 433,217,497,364,0 379,216,407,284,0 45,248,127,439,0 96,246,183,457,0 185,241,260,425,0 225,210,267,311,0 55,224,125,385,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007421.jpg 80,241,169,481,0 24,237,103,455,0 451,212,508,373,0 135,238,216,446,0 197,238,246,380,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007423.jpg 85,243,175,488,0 19,237,98,461,0 455,212,513,376,0 123,238,206,451,0 194,237,244,383,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007425.jpg 92,244,184,494,0 459,212,518,379,0 111,238,195,457,0 190,236,242,385,0 11,241,111,466,0 -7,223,83,432,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007450.jpg 172,243,265,482,0 524,208,596,415,0 128,245,197,434,0 11,251,104,511,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007454.jpg 170,243,263,483,0 529,209,604,424,0 110,247,181,443,0 1,256,66,513,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007455.jpg 169,243,262,483,0 530,209,605,425,0 110,256,184,441,0 1,257,61,513,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007456.jpg 531,209,607,427,0 103,255,177,440,0 175,240,271,477,0 1,258,59,513,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007465.jpg 539,214,615,442,0 24,265,108,472,0 136,245,235,484,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007479.jpg 73,243,173,500,0 1,283,38,494,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007480.jpg 65,243,165,502,0 1,287,31,493,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007497.jpg 333,252,422,468,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007505.jpg 453,228,478,287,0 175,228,212,314,0 101,231,141,325,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007511.jpg 467,208,490,265,0 78,212,127,333,0 129,206,173,313,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007515.jpg 471,229,496,283,0 133,224,154,283,0 39,229,101,375,0 91,256,133,362,0 97,223,142,332,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007516.jpg 88,270,130,383,0 85,227,137,352,0 123,225,149,285,0 474,232,495,286,0 19,234,95,391,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007518.jpg 474,239,497,298,0 113,232,144,303,0 72,283,122,396,0 56,241,116,372,0 -20,249,65,420,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007529.jpg 480,229,509,290,0 124,220,155,296,0 1,226,45,303,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007534.jpg 487,219,518,292,0 142,216,174,293,0 326,211,349,246,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007544.jpg 169,206,212,290,0 191,205,226,285,0 508,199,542,282,0 336,201,360,233,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007573.jpg 283,253,355,376,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007578.jpg 52,239,95,331,0 472,253,547,383,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007581.jpg 129,243,182,328,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007589.jpg 336,239,382,325,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007591.jpg 387,242,432,326,0
+D:\YOLOv4_code\yolov4-pytorch-multispectral\kaist_wash/TIF_picture/007594.jpg 37,218,70,273,0

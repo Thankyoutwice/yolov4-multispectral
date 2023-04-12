@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+  <folder>1</folder>
+  <filename>002820.jpg</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>truncated</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>542</xmin>
+      <ymin>215</ymin>
+      <xmax>569</xmax>
+      <ymax>278</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>truncated</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>230</xmin>
+      <ymin>211</ymin>
+      <xmax>243</xmax>
+      <ymax>242</ymax>
+    </bndbox>
+  </object>
+</annotation>

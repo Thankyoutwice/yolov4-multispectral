@@ -1,0 +1,21 @@
+<annotation>
+  <folder>1</folder>
+  <filename>set03_V000_I03283.jpg</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>truncated</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>57</xmin>
+      <ymin>220</ymin>
+      <xmax>125</xmax>
+      <ymax>369</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+  <folder>1</folder>
+  <filename>set00_V004_I01215.jpg</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>truncated</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>445</xmin>
+      <ymin>233</ymin>
+      <xmax>483</xmax>
+      <ymax>325</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>truncated</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>494</xmin>
+      <ymin>235</ymin>
+      <xmax>530</xmax>
+      <ymax>323</ymax>
+    </bndbox>
+  </object>
+</annotation>
