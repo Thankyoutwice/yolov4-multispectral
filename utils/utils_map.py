@@ -15,6 +15,7 @@ import matplotlib
 matplotlib.use('Agg')
 from matplotlib import pyplot as plt
 import numpy as np
+# import pandas as pd
 
 '''
     0,0 ------> x (width)
@@ -420,6 +421,9 @@ def get_map(MINOVERLAP, draw_plot, score_threhold=0.5, path = './map_out'):
     sum_AP = 0.0
     ap_dictionary = {}
     lamr_dictionary = {}
+    mr_dictionary = {}
+    fppi_dictionary ={}
+
     with open(RESULTS_FILES_PATH + "/results.txt", 'w') as results_file:
         results_file.write("# AP and precision/recall per class\n")
         count_true_positives = {}
@@ -598,6 +602,8 @@ def get_map(MINOVERLAP, draw_plot, score_threhold=0.5, path = './map_out'):
             n_images = counter_images_per_class[class_name]
             lamr, mr, fppi = log_average_miss_rate(np.array(rec), np.array(fp), n_images)
             lamr_dictionary[class_name] = lamr
+            mr_dictionary[class_name]   = mr
+            fppi_dictionary[class_name] = fppi
 
             if draw_plot:
                 plt.plot(rec, prec, '-o')
@@ -751,6 +757,42 @@ def get_map(MINOVERLAP, draw_plot, score_threhold=0.5, path = './map_out'):
     #         plot_color,
     #         true_p_bar
     #         )
+
+    # 
+    # if draw_plot:
+    #     window_title = 'mr-fppi'
+    #     plot_title = ''
+    #     x_label = 'False Positives Per Image'
+    #     y_label = 'Miss Rate'
+    #     output_path = RESULTS_FILES_PATH + "/mr_fppi.png"
+    #     to_show = True
+    #     plot_color = 'royalblue'
+    #     draw_plot_func(
+    #         mr_dictionary,
+    #         fppi_dictionary,
+    #         window_title,
+    #         plot_title,
+    #         x_label,
+    #         output_path,
+    #         to_show,
+    #         plot_color,
+    #         ""
+    #         )
+
+    # np.set_printoptions(threshold=sys.maxsize)
+    # pd.set_option("display.max_columns", 50)#可显示1000列
+    # f1 = open("mr.txt",'w')
+    # for i in mr_dictionary.values():
+    #     mr_value = list(mr_dictionary.values())
+    #     f1.write(str(mr_value) + "\n")
+    # f1.close()  
+    # f2 = open("fppi.txt",'w')
+    # for i in fppi_dictionary.values():
+    #     fppi_value = list(fppi_dictionary.values())
+    #     f2.write(str(fppi_value) + "\n")
+    # f2.close()  
+
+
 
     """
     Draw log-average miss rate plot (Show lamr of all classes in decreasing order)
