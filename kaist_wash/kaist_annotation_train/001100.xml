@@ -1,34 +1,94 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <annotation>
-  <folder>1</folder>
+  <folder>KAIST Multispectral Ped Benchmark</folder>
   <filename>001100.jpg</filename>
+  <source>
+    <database>KAIST pedestrian</database>
+    <image>KAIST pedestrian</image>
+    <url>https://soonminhwang.github.io/rgbt-ped-detection/</url>
+  </source>
   <size>
     <width>640</width>
     <height>512</height>
-    <depth>3</depth>
+    <depth>4</depth>
   </size>
+  <segmented>0</segmented>
   <object>
     <name>person</name>
-    <pose>Unspecified</pose>
-    <truncated>truncated</truncated>
-    <difficult>0</difficult>
     <bndbox>
-      <xmin>568</xmin>
-      <ymin>231</ymin>
-      <xmax>625</xmax>
-      <ymax>381</ymax>
+      <xmin>488.87696335078545</xmin>
+      <ymin>226.17247386759573</ymin>
+      <xmax>545.8403141361257</xmax>
+      <ymax>402.42891986062716</ymax>
     </bndbox>
+    <pose>unknown</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occlusion>0</occlusion>
   </object>
   <object>
     <name>person</name>
-    <pose>Unspecified</pose>
-    <truncated>truncated</truncated>
-    <difficult>0</difficult>
     <bndbox>
-      <xmin>212</xmin>
-      <ymin>194</ymin>
-      <xmax>230</xmax>
-      <ymax>237</ymax>
+      <xmin>547.8507853403144</xmin>
+      <ymin>226.52926829268284</ymin>
+      <xmax>606.1544502617801</xmax>
+      <ymax>405.2832752613241</ymax>
     </bndbox>
+    <pose>unknown</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occlusion>0</occlusion>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>199.03403141361264</xmin>
+      <ymin>202.98083623693392</ymin>
+      <xmax>240.9188481675393</xmax>
+      <ymax>313.5871080139374</ymax>
+    </bndbox>
+    <pose>unknown</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occlusion>0</occlusion>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>150.4476439790576</xmin>
+      <ymin>201.19686411149826</ymin>
+      <xmax>187.30628272251306</xmax>
+      <ymax>306.45121951219517</ymax>
+    </bndbox>
+    <pose>unknown</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occlusion>0</occlusion>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>244.26963350785343</xmin>
+      <ymin>197.6289198606272</ymin>
+      <xmax>286.1544502617801</xmax>
+      <ymax>306.45121951219517</ymax>
+    </bndbox>
+    <pose>unknown</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occlusion>0</occlusion>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>319.3272251308901</xmin>
+      <ymin>206.54878048780495</ymin>
+      <xmax>352.8350785340314</xmax>
+      <ymax>292.17944250871085</ymax>
+    </bndbox>
+    <pose>unknown</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occlusion>0</occlusion>
   </object>
 </annotation>
