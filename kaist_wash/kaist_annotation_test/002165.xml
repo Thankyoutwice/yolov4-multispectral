@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+  <folder>KAIST Multispectral Ped Benchmark</folder>
+  <filename>002165.jpg</filename>
+  <source>
+    <database>KAIST pedestrian</database>
+    <image>KAIST pedestrian</image>
+    <url>https://soonminhwang.github.io/rgbt-ped-detection/</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>4</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>321.6079505607681</xmin>
+      <ymin>223.14022662889514</ymin>
+      <xmax>341.6079505607681</xmax>
+      <ymax>262.30169971671376</ymax>
+    </bndbox>
+    <pose>unknown</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occlusion>0</occlusion>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>340.12764945341627</xmin>
+      <ymin>221.07697030741792</ymin>
+      <xmax>360.12764945341627</xmax>
+      <ymax>261.39878182410774</ymax>
+    </bndbox>
+    <pose>unknown</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occlusion>0</occlusion>
+  </object>
+</annotation>
